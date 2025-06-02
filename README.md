@@ -2,6 +2,8 @@
 
 PostgreSQLの`Binaries_deleted`テーブルから全レコードを削除するツールです。
 
+[プリザンターでBinaries_deletedテーブルに貯まり続けるゴミファイルを削除する方法](https://qiita.com/pmc-ko/items/2289b463045a61940a97)
+
 ## 特徴
 
 - 🔄 **バッチ処理**: 400レコードずつ安全に削除
